@@ -5,7 +5,7 @@
 ![JavaScript Playing Variables](https://i.ibb.co/MBQJcDN/js-variables.png)
 
 
-## [Visit the live site](https://souemon16.github.io/javascript-clock/)
+## [Visit the live site](https://souemon16.github.io/javascript-playing-variables/index.html)
 
 ### Main Features:
 - Fully created by Javascript DOM Manipaulation.
